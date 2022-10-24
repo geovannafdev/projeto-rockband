@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Maiden+Orange&family=Metal+Mania&display=swap');
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+body{
+  background: #320303;
+  background: -webkit-linear-gradient(to right, #0E0E0E, #320303);
+  background: linear-gradient(to right, #0E0E0E, #320303);
+  color: #f1f1f1;
+} 
